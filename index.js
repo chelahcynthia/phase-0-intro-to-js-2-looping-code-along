@@ -13,3 +13,4 @@ function countDown(i) {
         i--;
     }
 }
+// for while loop 
